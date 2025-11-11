@@ -37,9 +37,9 @@ teamname](https://github.com/yourusername/java-fundamentals-course-teamname)
  
 ### Lección 5: Fundamentos de POO y programas sencillos (15 minutos) 
 - **Descripción**: Construye clases con atributos/métodos y crea un programa POO básico.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link5)
+- **Enlace**: [Ver la lección](https://youtu.be/ypKKQpVKiXo)
 - **Conclusiones clave**: Encapsulación con getters; Construye un simulador de "mascotas".
-- **Proyecto final**: [Crea tu aplicación POO](https://replit.com/@your-final-java) 
+- **Proyecto final**: [Crea tu aplicación POO](https://replit.com/@DyronHuapaya/Leccion-5?v=1) 
 
 ### Lección 6: Consejos y próximos pasos (10 minutos)
 - **Descripción**: Mejores prácticas, errores comunes y dónde aprender más.
@@ -57,7 +57,7 @@ teamname](https://github.com/yourusername/java-fundamentals-course-teamname)
 | 2 | Variables | [Replit](https://replit.com/@your-lesson2) | 
 | 3 | Bucles | [JDoodle](https://jdoodle.com/execute-java-online/your-lesson3) | 
 | 4 | Métodos y clases | [OnlineGDB](https://onlinegdb.com/your-lesson4) | 
-| 5 | Programa OOP | [Replit](https://replit.com/@your-lesson5) | 
+| 5 | Programa OOP | [Replit](https://replit.com/@DyronHuapaya/Leccion-5?v=1) | 
 
 - Cuestionario: [Prueba de conocimientos](https://forms.gle/your-quiz) 
 - Compartir: #JavaBeginners
