@@ -8,7 +8,7 @@ programación orientada a objetos.
 - **Prerrequisitos**: Ninguno
 - **Herramientas necesarias**: **¡Solo tu navegador web!** (Chrome, Firefox, Safari, Edge) 
 
-**Repositorio de Código Fuente**: https://github.com/OpenSourceDevUPC/srca-open-source/tree/main/codigo-fuente](https://github.com/OpenSourceDevUPC/srca-open-source/tree/main/codigo-fuente
+**Repositorio de Código Fuente**: https://github.com/OpenSourceDevUPC/srca-open-source/tree/main/codigo-fuente
 ## Secuencia de la Lección 
 ### Lección 1: ¿Qué es Java y la Programación? (5 minutos) 
 - **Descripción**: Aprende qué es la programación y por qué Java es un excelente lenguaje para empezar.
