@@ -8,59 +8,59 @@ programación orientada a objetos.
 - **Prerrequisitos**: Ninguno
 - **Herramientas necesarias**: **¡Solo tu navegador web!** (Chrome, Firefox, Safari, Edge) 
 
-**Repositorio de Código Fuente**: [https://github.com/OpenSourceDevUPC/srca-open-source/tree/main/codigo-fuente](https://github.com/OpenSourceDevUPC/srca-open-source/tree/main/codigo-fuente) 
+**Repositorio de Código Fuente**: https://github.com/OpenSourceDevUPC/srca-open-source/tree/main/codigo-fuente](https://github.com/OpenSourceDevUPC/srca-open-source/tree/main/codigo-fuente
 ## Secuencia de la Lección 
 ### Lección 1: ¿Qué es Java y la Programación? (5 minutos) 
 - **Descripción**: Aprende qué es la programación y por qué Java es un excelente lenguaje para empezar.
-- **Enlace**: [Ver la lección](https://youtu.be/BUBTvrvhHUo)
+- **Enlace**: https://youtu.be/BUBTvrvhHUo
 - **Conclusiones clave**: Java se usa para aplicaciones y juegos; los programas son instrucciones para computadoras.
-- **Empieza a programar**: [Abrir Replit - Hola mundo](https://replit.com/@GilbertHuarcaya/Leccion1#src/main/java/Main.java) 
+- **Empieza a programar**: https://replit.com/@GilbertHuarcaya/Leccion1#src/main/java/Main.java
 
 ### Lección 2: Variables y tipos de datos (8 minutos) 
 - **Descripción**: Aprende a almacenar datos en Java usando variables y tambien operaciones básicas.
-- **Enlace**: [Ver la lección](https://youtu.be/LEX9flfeSxs)
+- **Enlace**: https://youtu.be/LEX9flfeSxs
 - **Conclusiones clave**: Usa int, String, double, boolean; 
-- **Práctica**: [Clic para programar](https://replit.com/@GilbertHuarcaya/Leccion2#src/main/java/Main.java)
+- **Práctica**: https://replit.com/@GilbertHuarcaya/Leccion2#src/main/java/Main.java
   
 ### Lección 3: Estructuras de control: Decisiones y bucles (10 minutos) 
 - **Descripción**: Toma decisiones con if-else y repite tareas con bucles.
-- **Enlace**: [Ver la lección](https://youtu.be/okSlW1krEPg)
+- **Enlace**: https://youtu.be/okSlW1krEPg
 - **Conclusiones clave**: if (age > 12) {}; for (int i=0; i<5; i++) {} 
-- **Práctica**: [Clic para programar](https://replit.com/@panpunsoftware/Leccion-3?v=1)
+- **Práctica**: https://replit.com/@panpunsoftware/Leccion-3?v=1
  
 ### Lección 4: Métodos, Entrada/Salida e Introducción a la POO (12 minutos) 
 - **Descripción**: Crea código reutilizable con métodos, obtén la entrada del usuario e introduce clases/objetos.
-- **Enlace**: [Ver la lección](https://youtu.be/i9XrcF9nYGg)
+- **Enlace**: https://youtu.be/i9XrcF9nYGg
 - **Conclusiones clave**: public static void greet() {}; Use Scanner; class Pet { String name; }
-- **Práctica**: [Haz clic para practicar](https://replit.com/@iamandreek/Leccion4?v=1)
+- **Práctica**: https://replit.com/@iamandreek/Leccion4?v=1
  
 ### Lección 5: Fundamentos de POO y programas sencillos (15 minutos) 
 - **Descripción**: Construye clases con atributos/métodos y crea un programa POO básico.
-- **Enlace**: [Ver la lección](https://youtu.be/ypKKQpVKiXo)
+- **Enlace**: https://youtu.be/ypKKQpVKiXo
 - **Conclusiones clave**: Encapsulación con getters; Construye un simulador de "mascotas".
-- **Proyecto final**: [Crea tu aplicación POO](https://replit.com/@DyronHuapaya/Leccion-5?v=1) 
+- **Proyecto final**: https://replit.com/@DyronHuapaya/Leccion-5?v=1
 
 ### Lección 6: Consejos y próximos pasos (10 minutos)
 - **Descripción**: Mejores prácticas, errores comunes y dónde aprender más.
-- **Enlace**: [Ver la lección](https://youtu.be/oooXvGF15yw)
+- **Enlace**: https://youtu.be/oooXvGF15yw
 - **Consejos clave**: Depurar errores, explorar la documentación de Oracle Java.
-- **Compartir tu trabajo**: [Enviar creación](https://forms.gle/zEcVzW2WwrLDZsrb6)
+- **Compartir tu trabajo**: https://forms.gle/zEcVzW2WwrLDZsrb6
 
 ## Recursos adicionales 
-- **Código fuente completo**: [Repositorio de GitHub](https://github.com/OpenSourceDevUPC/srca-open-source/tree/main/codigo-fuente)
+- **Código fuente completo**: https://github.com/OpenSourceDevUPC/srca-open-source/tree/main/codigo-fuente
 - **Todas las actividades prácticas**:
   
 | Número de lección | Actividad | Empezar a programar | 
 |----------|----------|-------------| 
-| 1 | Hola mundo | [Replit](https://replit.com/@GilbertHuarcaya/Leccion1) | 
-| 2 | Variables | [Replit](https://replit.com/@GilbertHuarcaya/Leccion2) | 
-| 3 | Bucles | [Replit](https://replit.com/@panpunsoftware/Leccion-3?v=1) | 
-| 4 | Métodos y clases | [Replit](https://replit.com/@iamandreek/Leccion4?v=1) | 
-| 5 | Programa OOP | [Replit](https://replit.com/@DyronHuapaya/Leccion-5?v=1) | 
+| 1 | Hola mundo | https://replit.com/@GilbertHuarcaya/Leccion1 | 
+| 2 | Variables | https://replit.com/@GilbertHuarcaya/Leccion2 | 
+| 3 | Bucles | https://replit.com/@panpunsoftware/Leccion-3?v=1 | 
+| 4 | Métodos y clases | https://replit.com/@iamandreek/Leccion4?v=1 | 
+| 5 | Programa OOP | https://replit.com/@DyronHuapaya/Leccion-5?v=1 | 
 
-- Cuestionario: [Prueba de conocimientos](https://forms.gle/aaFatmhaBuYA8gdH9) 
+- Cuestionario: https://forms.gle/aaFatmhaBuYA8gdH9
 - Compartir: #JavaBeginners
-- 
+
 **¡Gracias por completar el curso!**
 
 --- 
