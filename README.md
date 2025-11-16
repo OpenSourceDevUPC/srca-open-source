@@ -24,9 +24,9 @@ programación orientada a objetos.
   
 ### Lección 3: Estructuras de control: Decisiones y bucles (10 minutos) 
 - **Descripción**: Toma decisiones con if-else y repite tareas con bucles.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link3)
+- **Enlace**: [Ver la lección](https://youtu.be/okSlW1krEPg)
 - **Conclusiones clave**: if (age > 12) {}; for (int i=0; i<5; i++) {} 
-- **Práctica**: [Clic para programar](https://jdoodle.com/execute-java-online/your-id)
+- **Práctica**: [Clic para programar](https://replit.com/@panpunsoftware/Leccion-3?v=1)
  
 ### Lección 4: Métodos, Entrada/Salida e Introducción a la POO (12 minutos) 
 - **Descripción**: Crea código reutilizable con métodos, obtén la entrada del usuario e introduce clases/objetos.
@@ -54,7 +54,7 @@ programación orientada a objetos.
 |----------|----------|-------------| 
 | 1 | Hola mundo | [Replit](https://replit.com/@GilbertHuarcaya/Leccion1) | 
 | 2 | Variables | [Replit](https://replit.com/@GilbertHuarcaya/Leccion2) | 
-| 3 | Bucles | [JDoodle](https://jdoodle.com/execute-java-online/your-lesson3) | 
+| 3 | Bucles | [Replit](https://replit.com/@panpunsoftware/Leccion-3?v=1) | 
 | 4 | Métodos y clases | [OnlineGDB](https://onlinegdb.com/your-lesson4) | 
 | 5 | Programa OOP | [Replit](https://replit.com/@DyronHuapaya/Leccion-5?v=1) | 
 
