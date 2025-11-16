@@ -32,7 +32,7 @@ programación orientada a objetos.
 - **Descripción**: Crea código reutilizable con métodos, obtén la entrada del usuario e introduce clases/objetos.
 - **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link4)
 - **Conclusiones clave**: public static void greet() {}; Use Scanner; class Pet { String name; }
-- **Práctica**: [Haz clic para practicar](https://onlinegdb.com/your-gdb-id)
+- **Práctica**: [Haz clic para practicar](https://replit.com/join/gekmgmprvw-iamandreek)
  
 ### Lección 5: Fundamentos de POO y programas sencillos (15 minutos) 
 - **Descripción**: Construye clases con atributos/métodos y crea un programa POO básico.
@@ -55,7 +55,7 @@ programación orientada a objetos.
 | 1 | Hola mundo | [Replit](https://replit.com/@GilbertHuarcaya/Leccion1) | 
 | 2 | Variables | [Replit](https://replit.com/@GilbertHuarcaya/Leccion2) | 
 | 3 | Bucles | [Replit](https://replit.com/@panpunsoftware/Leccion-3?v=1) | 
-| 4 | Métodos y clases | [OnlineGDB](https://onlinegdb.com/your-lesson4) | 
+| 4 | Métodos y clases | [OnlineGDB](https://replit.com/join/gekmgmprvw-iamandreek) | 
 | 5 | Programa OOP | [Replit](https://replit.com/@DyronHuapaya/Leccion-5?v=1) | 
 
 - Cuestionario: [Prueba de conocimientos](https://forms.gle/aaFatmhaBuYA8gdH9) 
