@@ -8,8 +8,7 @@ programación orientada a objetos.
 - **Prerrequisitos**: Ninguno
 - **Herramientas necesarias**: **¡Solo tu navegador web!** (Chrome, Firefox, Safari, Edge) 
 
-**Repositorio de Código Fuente**: [https://github.com/yourusername/java-fundamentals-course
-teamname](https://github.com/yourusername/java-fundamentals-course-teamname) 
+**Repositorio de Código Fuente**: [https://github.com/OpenSourceDevUPC/srca-open-source/tree/main/codigo-fuente](https://github.com/OpenSourceDevUPC/srca-open-source/tree/main/codigo-fuente) 
 ## Secuencia de la Lección 
 ### Lección 1: ¿Qué es Java y la Programación? (5 minutos) 
 - **Descripción**: Aprende qué es la programación y por qué Java es un excelente lenguaje para empezar.
@@ -48,7 +47,7 @@ teamname](https://github.com/yourusername/java-fundamentals-course-teamname)
 - **Compartir tu trabajo**: [Enviar creación](https://forms.gle/zEcVzW2WwrLDZsrb6)
 
 ## Recursos adicionales 
-- **Código fuente completo**: [Repositorio de GitHub](https://github.com/yourusername/java-fundamentals-course-teamname)
+- **Código fuente completo**: [Repositorio de GitHub](https://github.com/OpenSourceDevUPC/srca-open-source/tree/main/codigo-fuente)
 - **Todas las actividades prácticas**:
   
 | Número de lección | Actividad | Empezar a programar | 
