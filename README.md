@@ -59,7 +59,7 @@ teamname](https://github.com/yourusername/java-fundamentals-course-teamname)
 | 4 | Métodos y clases | [OnlineGDB](https://onlinegdb.com/your-lesson4) | 
 | 5 | Programa OOP | [Replit](https://replit.com/@DyronHuapaya/Leccion-5?v=1) | 
 
-- Cuestionario: [Prueba de conocimientos](https://forms.gle/your-quiz) 
+- Cuestionario: [Prueba de conocimientos](https://forms.gle/aaFatmhaBuYA8gdH9) 
 - Compartir: #JavaBeginners
 - 
 **¡Gracias por completar el curso!**
@@ -80,4 +80,4 @@ teamname](https://github.com/yourusername/java-fundamentals-course-teamname)
   - Huapaya Galindo, Dyron
   - Huarcaya Matias, Gilbert Alonso
   - Salazar Caballero, Alvaro Fabrizzio
-- **Fecha de entrega**: 15/11/2025
+- **Fecha de entrega**: 16/11/2025
