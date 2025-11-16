@@ -5,7 +5,7 @@ programación orientada a objetos.
 - **¡No requiere descargas!** Solo abre tu navegador web. 
 - **Duración total**: ~60 minutos 
 - **Público Objetivo**: Estudiantes de 12 a 17 años sin experiencia en programación 
-- **Prerrequisitos**: Ninguno 
+- **Prerrequisitos**: Ninguno
 - **Herramientas necesarias**: **¡Solo tu navegador web!** (Chrome, Firefox, Safari, Edge) 
 
 **Repositorio de Código Fuente**: [https://github.com/yourusername/java-fundamentals-course
@@ -45,7 +45,7 @@ teamname](https://github.com/yourusername/java-fundamentals-course-teamname)
 - **Descripción**: Mejores prácticas, errores comunes y dónde aprender más.
 - **Enlace**: [Ver la lección](https://youtu.be/oooXvGF15yw)
 - **Consejos clave**: Depurar errores, explorar la documentación de Oracle Java.
-- **Compartir tu trabajo**: [Enviar creación](https://forms.gle/your-form)
+- **Compartir tu trabajo**: [Enviar creación](https://forms.gle/zEcVzW2WwrLDZsrb6)
 
 ## Recursos adicionales 
 - **Código fuente completo**: [Repositorio de GitHub](https://github.com/yourusername/java-fundamentals-course-teamname)
